@@ -1,6 +1,6 @@
 ![Foto perfil](martinitando.png)
 
-Hola holilla mi nombre es Martineando. 😜
+Hola holilla mi nombre es Martinitando. 😜
 
 Estoy aprendiendo a utilizar Git,  y sé un poco de Python, SQL, y un poquito de HTML y CSS. 🤓
 
